@@ -18,7 +18,7 @@ public class printlnTest {
         System.out.println("年龄："+age);
         System.out.println("学院："+college);
         System.out.println("专业："+major);
-        System.ou·t.println("班级："+class1);
+        System.out.println("班级："+class1);
 
     }
 }
